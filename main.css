@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://i.imgur.com/GjscCgG.jpg");
+    background-repeat: repeat-y;
+    background-color: #f7f7f7;
+  }
+div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+.p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+.menu_principal ul li {
+    display: inline-block;
+    list-style: none;
+}
